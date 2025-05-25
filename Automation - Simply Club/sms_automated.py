@@ -813,8 +813,8 @@ def click_who_button(driver, wait):
 
 if __name__ == "__main__":
     # Replace with your actual credentials
-    email = "bonani.jewels@gmail.com"
-    password = "4346840"
+    email = ""
+    password = ""
     
     driver = automate_simply_club(email, password)
     

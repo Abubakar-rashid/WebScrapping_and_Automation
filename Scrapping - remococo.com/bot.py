@@ -8,25 +8,10 @@ import responses
 from scrapper import scrape_user_tables
 import subprocess
 
-API_KEY = "7641931043:AAHPflgEiQSIQLkjavkriNj8grfFFEOcLjc"
+API_KEY = ""
 
 credentials = [
-{"username": "pnb052", "password": "s5623h"},
-{"username": "pnb144", "password": "m8519e"},
-{"username": "pnb044", "password": "t87368r67"},
-{"username": "pnb157", "password": "y8502h"},
-{"username": "pnb151", "password": "m4555d"},
-{"username": "pnb097", "password": "v2198a"},
-{"username": "pnb109", "password": "g1341x"},
-{"username": "pnb150", "password": "d6337c"},
-{"username": "pnb169", "password": "f3336s"},
-{"username": "pnb170", "password": "h7037z"},
-{"username": "pnb172", "password": "p7630g"},
-{"username": "pnb173", "password": "v2897m"},
-{"username": "pnb158", "password": "n7678r"},
-{"username": "pnb159", "password": "z4855v"},
-{"username": "pnb163", "password": "Z5239x"},
-{"username": "pnb166", "password": "h2106h"},
+
 ]
 
 

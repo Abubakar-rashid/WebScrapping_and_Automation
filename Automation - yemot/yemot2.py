@@ -18,8 +18,8 @@ WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "email"))
 
 email_field = driver.find_element(By.ID, "email")
 password_field = driver.find_element(By.ID, "password")
-email_field.send_keys("meirbaa@mail.com")
-password_field.send_keys("Abank0909@")
+email_field.send_keys("")
+password_field.send_keys("")
 password_field.send_keys(Keys.RETURN)
 
 time.sleep(3)
