@@ -1,2 +1,2 @@
 # WebScrapping_and_Automation
-This github repo includes all the web scrapping and web automation task that i did for clients 
+### This github repository includes my work of WebAutomation and WebScrapping during past 3 months, These scripts uses widly known **Pyhton** Librariy **Selenium** as its technolgy stack
