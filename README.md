@@ -1,2 +1,2 @@
 # WebScrapping_and_Automation
-### This github repository includes my work of WebAutomation and WebScrapping during past 3 months, These scripts uses widly known **Pyhton** Librariy **Selenium** as its technolgy stack
+### This GitHub repository contains my work on **web automation** and **web scraping** from the past three months. The scripts use the widely known Python library **Selenium** as the core technology stack.
